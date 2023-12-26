@@ -1,0 +1,3 @@
+Bảng báo cáo Kế hoạch: https://docs.google.com/spreadsheets/d/1O7GZPn7ndYtmQDWomIXlB3OaGwdLZMgrmFzbGK9hGGA/edit?usp=sharing
+
+github: https://github.com/phongdev22/final-machine-learning
